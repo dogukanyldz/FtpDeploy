@@ -17,4 +17,4 @@ jobs:
         server: ftp.mobilethinks.com
         username: mobilethinks
         password: thinks2022..
-        server-dir: /model/
+        server-dir: /model/grid/
